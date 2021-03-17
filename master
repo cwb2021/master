@@ -1,3 +1,5 @@
+
+
 <channels>
 <channel>
 <name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]TODOS CANAIS[/COLOR][/B] [B][COLOR green]////[/COLOR]</name>
@@ -12,7 +14,7 @@
 <channel>
 <name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]CANAIS ABERTOS[/COLOR][/B] [B][COLOR green]////[/COLOR]</name>
 <thumbnail>https://ibb.co/93yLZtW</thumbnail>
-<externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/todos%20os%20canais</externallink>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/abertos</externallink>
 <fanart>https://ibb.co/93yLZtW</fanart>
 <info>OS Canais Abertos, Globo, Sbt, Record etc...
 </channel>
@@ -22,7 +24,7 @@
 <channel>
 <name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]INFANTIL[/COLOR][/B] [B][COLOR green]////[/COLOR]</name>
 <thumbnail>https://ibb.co/BC2mHjd</thumbnail>
-<externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/todos%20os%20canais</externallink>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/infantil</externallink>
 <fanart>https://ibb.co/BC2mHjd</fanart>
 <info>OS Canais infantis, Cartoon Network, Nickelodeon, Disney Channel, etc..
 </channel>
@@ -32,8 +34,38 @@
 <channel>
 <name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]DOCUMENTARIOS[/COLOR][/B] [B][COLOR green]////[/COLOR]</name>
 <thumbnail>https://ibb.co/W3s89xr</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/Documentarios</externallink>
+<fanart>https://ibb.co/BC2mHjd</fanart>
+<info>OS Canais Documentários, Discovery Channel, Animal Planet, Nat Geo Wild, etc...
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]FILMES E SERIES[/COLOR][/B] [B][COLOR green]////[/COLOR]</name>
+<thumbnail>https://ibb.co/hM8hGz5</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/filmes%20e%20series</externallink>
+<fanart>https://ibb.co/BC2mHjd</fanart>
+<info>OS Canais Filmes e Series, Fox, Warner, Hbo...
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]VARIEDADES[/COLOR][/B] [B][COLOR green]////[/COLOR]</name>
+<thumbnail>https://ibb.co/ZdyBs2R</thumbnail>
 <externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/todos%20os%20canais</externallink>
 <fanart>https://ibb.co/BC2mHjd</fanart>
-<info>OS Canais infantis, Cartoon Network, Nickelodeon, Disney Channel, etc..
+<info>OS Canais Variedades, Tlc, Food Network, Viva, etc...
+</channel>
+</channels>
+
+<channels>
+<channel>
+<name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]ESPORTES[/COLOR][/B] [B][COLOR green]////[/COLOR]</name>
+<thumbnail>https://ibb.co/y6WZFBj</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/cwb/main/esportes</externallink>
+<fanart>https://ibb.co/BC2mHjd</fanart>
+<info>OS Canais Variedades, Tlc, Food Network, Viva, etc...
 </channel>
 </channels>
