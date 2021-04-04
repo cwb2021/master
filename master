@@ -11,6 +11,15 @@
 </channel>
 </channels>
 
+<channels>
+<channel>
+<name>[B][COLOR orange]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR yellow]PLUTO TV[/COLOR][/B] [COLOR orange]////[/COLOR]</name>
+<thumbnail>https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/featuredImage.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/CANACWB/main/PLUTOTV</externallink>
+<fanart>https://images.pluto.tv/channels/5fa97a8a75cc210007c9041d/featuredImage.jpg</fanart>
+<info>pluto canais de tv
+</channel>
+</channels>
 
 <channels>
 <channel>
