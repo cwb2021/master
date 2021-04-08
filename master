@@ -42,20 +42,4 @@
 </channels>
 
 
-<channels>
-<channel>
-<name>[B][COLOR blue]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR green]teste[/COLOR][/B] [COLOR blue]////[/COLOR]</name>
-<thumbnail>https://i.ibb.co/5jKSH9P/radio-station-poster-design-template-e3872690ea91987bf1d4e471dc8cb153-screen.jpg</thumbnail>
-<externallink>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79247ee860f5f39b45100872adfe8ff5581b1df3</externallink>
-<fanart>https://i.ibb.co/9vWZR4N/WALLPAPER-RADIOS.png</fanart>
-<info>
-</channel>
-</channels>
 
-<item>
-		<title>[B]teste (2020) [COLOR orange] teste[/COLOR][/B]</title>
-		<thumbnail>https://image.tmdb.org/t/p/w342/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg</thumbnail>
-		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
-		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79247ee860f5f39b45100872adfe8ff5581b1df3</link>
-		<info>Sinopse: </info>
-	</item>
