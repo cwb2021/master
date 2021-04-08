@@ -41,4 +41,10 @@
 </channel>
 </channels>
 
-
+<item>
+		<title>[B]teste (2020) [COLOR orange] teste[/COLOR][/B]</title>
+		<thumbnail>https://image.tmdb.org/t/p/w342/lh9jmB0FVXjjs4z9ehX6O5wN915.jpg</thumbnail>
+		<fanart>https://i.ibb.co/NY0yjcX/770788-2048-1152.jpg</fanart>
+		<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79247ee860f5f39b45100872adfe8ff5581b1df3&dn=Cole%C3%A7%C3%A3o+Jovem+Pan+84+CD%C2%B4s</link>
+		<info>Sinopse: </info>
+	</item>
