@@ -51,13 +51,12 @@
 </channel>
 </channels>
 
-
 <channels>
 <channel>
-<name>[B][COLOR white]////[/COLOR] [COLOR white]TESTE[/COLOR] [COLOR orange]CDS[/COLOR][/B] [COLOR white]////[/COLOR]</name>
-<thumbnail>https://tech.thaivisa.com/wp-content/uploads/2015/03/Music-CDs-on-Way-HD-Wallpaper.jpeg</thumbnail>
-<externallink>https://raw.githubusercontent.com/cwb2021/AS-7-MELHORES-JP/main/SUB%20%20MENU%20CDS</externallink>
-<fanart>https://c8.alamy.com/comp/D76FK6/music-cds-D76FK6.jpg</fanart>
+<name>[B][COLOR white]////[/COLOR] [COLOR blue]SHOWS[/COLOR][/B] [COLOR white]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/YN5gvPX/shows.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/shows/main/shows%20%20lista</externallink>
+<fanart>https://3.bp.blogspot.com/-SddxniU3bcM/UeC2_32dGMI/AAAAAAAAE1I/uL6ZnSEJOuI/s1600/wallpaper-10030066.jpg</fanart>
 <info> 
 </channel>
 </channels>
