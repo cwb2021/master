@@ -11,18 +11,6 @@ AO SEU CONTEÚDO, SAIBA QUE VOCÊ FOI ENGANADO!!!![/COLOR][/B]</info>
 
 <channels>
 <channel>
-<name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR violet]VINIL TESTE[/COLOR][/B] [COLOR green]////[/COLOR]</name>
-<thumbnail>https://i.ibb.co/7CjF62y/VINIL-FERA-CANAIS.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/cwb2021/vinil/main/VINIL</externallink>
-<fanart>https://i.ibb.co/7CjF62y/VINIL-FERA-CANAIS.pnghttps://i.ibb.co/7CjF62y/VINIL-FERA-CANAIS.png</fanart>
-<info>OS CANAIS DE TV
-</channel>
-</channels>
-
-
-
-<channels>
-<channel>
 <name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR violet]CANAIS DE TV[/COLOR][/B] [COLOR green]////[/COLOR]</name>
 <thumbnail>https://i.ibb.co/XWs9ybF/CANAIS-TV.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/cwb2021/CANACWB/main/CAtv</externallink>
@@ -92,4 +80,12 @@ AO SEU CONTEÚDO, SAIBA QUE VOCÊ FOI ENGANADO!!!![/COLOR][/B]</info>
 </channel>
 </channels> 
 
-
+<channels>
+<channel>
+<name>[B][COLOR green]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR grey]VINIL[/COLOR][/B] [COLOR green]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/7CjF62y/VINIL-FERA-CANAIS.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/vinil/main/VINIL</externallink>
+<fanart>https://i.ibb.co/7CjF62y/VINIL-FERA-CANAIS.pnghttps://i.ibb.co/7CjF62y/VINIL-FERA-CANAIS.png</fanart>
+<info>OS CANAIS DE TV
+</channel>
+</channels>
