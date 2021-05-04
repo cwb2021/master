@@ -101,7 +101,15 @@ AO SEU CONTEÚDO, SAIBA QUE VOCÊ FOI ENGANADO!!!![/COLOR][/B]</info>
 </channel>
 </channels>
 
-
+<channels>
+<channel>
+<name>[B][COLOR grey]////[/COLOR] [COLOR white]FERA[/COLOR] | [COLOR blue]CDS[/COLOR][/B] [COLOR grey]////[/COLOR]</name>
+<thumbnail>https://i.ibb.co/HHJpSb1/cds.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/cwb2021/CD-NOSSO-DE-CADA-DIA/main/CDS</externallink>
+<fanart>https://i.ibb.co/7j6FWLn/cds-FANART.png</fanart>
+<info>
+</channel>
+</channels>
 
 
 
